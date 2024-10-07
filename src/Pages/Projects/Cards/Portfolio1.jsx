@@ -8,7 +8,7 @@ const Portfolio1 = () => {
       <div className="mt-12 flex justify-center ">
         <div
           className="block rounded-lg bg-gray-600 p-6 shadow-2xl duration-300 hover:scale-110"
-          style={{ height: "460px", width: "320px" }}
+          style={{ height: "560px", width: "380px" }}
         >
           <div className="flex flex-col h-full">
             {/* Starting of the card Heading */}
